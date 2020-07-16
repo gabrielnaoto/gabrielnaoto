@@ -18,7 +18,7 @@ Here I enjoy publishing some of my latest experiments and side projects I'm work
 ### 👀 where you can find me
 
 - you can check my full bio [here](https://gabrielnaoto.github.io/)
-- or my [twitter]([https://twitter.com/_naotox](https://twitter.com/_naotox))
+- or my [twitter](https://twitter.com/_naotox)
 
 
 
