@@ -1,6 +1,6 @@
-# hello world
+# hello world  🌎
 
-### 👤 who am I?
+### 🙋‍♂️ who am I?
 
 I'm a software engineer, mainly focused in frontend development, but I enjoy learning and discovering new things.
 Currently working at [Jungsoft](https://jungsoft.io/) and [kartrak](https://www.kartrak.app/) where I develop new things with technologies such as Ruby on Rails, Elixir, React JS and React Native and Java. 
