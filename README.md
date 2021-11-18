@@ -1,5 +1,7 @@
 # hello world  🌎
 
+![Alt Text](https://media3.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif?cid=ecf05e47ttonutz0t8trrh4ngfxke9gct9ota1l0dswszxr5&rid=giphy.gif&ct=g)
+
 ### who am I? 🙋‍♂
 
 I'm a software engineer, mainly focused in frontend development, but I enjoy learning and discovering new things. Have experience with Ruby on Rails, React.js and React Native, Javascript/Typescript, Python & Django, Java and other stuff.
