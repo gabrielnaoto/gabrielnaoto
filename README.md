@@ -15,3 +15,20 @@ Here I enjoy publishing some of my latest experiments and side projects I'm work
 ###  where you can find me 👀 
 
 - you can check my full bio [here](https://gabrielnaoto.github.io/)
+
+### languages & markup
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,python,js,nodejs,java,elixir,html,css,md)](https://skillicons.dev)
+
+### frameworks & libs
+
+[![My Skills](https://skillicons.dev/icons?i=react,jest,jquery,graphql,apollo,rails,django)](https://skillicons.dev)
+
+### favorite tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,docker,figma,git)](https://skillicons.dev)
+
+### databases
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+
