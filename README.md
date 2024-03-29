@@ -24,11 +24,8 @@ Here I enjoy publishing some of my latest experiments and side projects I'm work
 
 [![My Skills](https://skillicons.dev/icons?i=react,jest,jquery,graphql,apollo,rails,django)](https://skillicons.dev)
 
-### favorite tools
+### favorite tools & dbs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,docker,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,docker,figma,git,mongodb,postgres,mysql)](https://skillicons.dev)
 
-### databases
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
