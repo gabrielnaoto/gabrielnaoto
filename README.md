@@ -18,14 +18,14 @@ Here I enjoy publishing some of my latest experiments and side projects I'm work
 
 ### languages & markup
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,python,js,nodejs,java,elixir,html,css,md)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=ruby,python,js,nodejs,java,elixir,html,css,md&perline=5)](https://skillicons.dev)
 
 ### frameworks & libs
 
-[![My Skills](https://skillicons.dev/icons?i=react,jest,jquery,graphql,apollo,rails,django)](https://skillicons.dev)
+[![frameworks](https://skillicons.dev/icons?i=react,jest,jquery,graphql,apollo,rails,django&perline=5)](https://skillicons.dev)
 
 ### favorite tools & dbs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,docker,figma,git,mongodb,postgres,mysql)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=vscode,androidstudio,postman,docker,figma,git,mongodb,postgres,mysql&perline=5)](https://skillicons.dev)
 
 
